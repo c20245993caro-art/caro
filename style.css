@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(226, 159, 209);
+    background-image: url(https://i.pinimg.com/736x/71/d0/8c/71d08caf066e888827ab1b888415f320.jpg);
     font-family: 'Times New Roman', Times, serif, sans-serif;
     margin: 0;
     padding: 0;
@@ -75,7 +75,7 @@ nav a:hover {
 }
 
 .about-me{
-    color:black
+    color:blue
 
 }
 
