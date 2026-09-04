@@ -24,6 +24,16 @@ function greet (greetings,names=[5]){
 
 console.log(greet("Mayunggg aga" , ["cj","bai","soy","tol","erp"]));
 
+const heading = document.querySelector("h1");
+console.log(heading);
+
+const contactHeading = document.querySelector("#contact h2")
+console.log(contactHeading)
+
+const servicesHeading = document.querySelector("#services h2")
+console.log(servicesHeading);
+
+
 
   
 
