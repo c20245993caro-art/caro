@@ -13,6 +13,18 @@ console.log(`Number:  ${number}` );
 console.log(`address:  ${address}` );
 console.log(` ${sixseven}`);
 
+function greet (greetings,names=[5]){
+    if (Array.isArray(names)){
+        names = names.join (", ")
+    }
+    return `${greetings} sa emuu, ${names}`;
 
+}
+
+
+console.log(greet("Mayunggg aga" , ["cj","bai","soy","tol","erp"]));
+
+
+  
 
 
